@@ -16,9 +16,9 @@ Key steps include:
 
 ## Project Structure
 
-- `partie1Metier.py` - Data loading, exploration, preprocessing, PCA and feature engineering  
-- `partie2Metier.py` - Dataset splitting, pipeline creation, SVM training, evaluation, hyperparameter tuning, and comparison of OvO/OvR strategies  
-- `partie3Metier.py` - Neural network model using Keras for digit classification  
+- `part1.py` - Data loading, exploration, preprocessing, PCA and feature engineering  
+- `part2.py` - Dataset splitting, pipeline creation, SVM training, evaluation, hyperparameter tuning, and comparison of OvO/OvR strategies  
+- `part3..py` - Neural network model using Keras for digit classification  
 - `RapportMachineLearning.pdf` - Detailed project report including methodology, results, discussions, and conclusions  
 
 ## Requirements
@@ -50,9 +50,9 @@ Key steps include:
 
 ## Project Structure
 
-- `partie1Metier.py` - Data loading, exploration, preprocessing, PCA and feature engineering  
-- `partie2Metier.py` - Dataset splitting, pipeline creation, SVM training, evaluation, hyperparameter tuning, and comparison of OvO/OvR strategies  
-- `partie3Metier.py` - Neural network model using Keras for digit classification  
+- `part1.py` - Data loading, exploration, preprocessing, PCA and feature engineering  
+- `part2.py` - Dataset splitting, pipeline creation, SVM training, evaluation, hyperparameter tuning, and comparison of OvO/OvR strategies  
+- `part3.py` - Neural network model using Keras for digit classification  
 - `RapportMachineLearning.pdf` - Detailed project report including methodology, results, discussions, and conclusions  
 
 ## Requirements
@@ -79,8 +79,8 @@ Refer to the PDF report for detailed explanations, results, and analysis.
 
 ## Authors
 
-- Amiel Metier  
-- Hedi Chennoufi  
+- Hedi Chennoufi 
+- Amiel Metier 
 - Lucas Fert  
 
 Supervised by:  
